@@ -5,9 +5,9 @@
   "main": "script.js",
     "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://exmotion.github.io/falling-obstacle-game",
+  "homepage": "https://ex-motion.github.io/falling-obstacle-game",
   "keywords": [],
   "author": "",
   "license": "ISC",
