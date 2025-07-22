@@ -1,0 +1,20 @@
+{
+  "name": "_onlyforgame",
+  "version": "1.0.0",
+  "description": "이 문서는 HTML, CSS, JavaScript를 사용하여 간단한 웹 게임을 만들고, GitHub Pages를 통해 무료로 웹에 배포하는 과정을 안내합니다.",
+  "main": "script.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://exmotion.github.io/falling-obstacle-game",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
