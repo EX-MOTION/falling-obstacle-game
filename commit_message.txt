@@ -1,1 +1,0 @@
-Update deploy script with --no-history and --exclude node_modules
