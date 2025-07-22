@@ -1,1 +1,1 @@
-Initial setup for GitHub Pages deployment
+Move static files to dist and update deploy script
